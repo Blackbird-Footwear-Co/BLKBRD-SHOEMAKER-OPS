@@ -1,0 +1,43 @@
+[
+  {
+    "id": "usr-admin-1",
+    "name": "Administrator (CRM3)",
+    "email": "crm3.blkbrdshoemaker@gmail.com",
+    "role": "admin",
+    "passwordHash": "4c7b2066726e0eea3c9bdcb0694a6a6b:2cf8f2f9fa297fa2d1d8fcf1d2fd41d7e7648390d2c775e611cbea0813f97a40e35d31c1cee1bbc31c060ca5ba8babbe44c1e8fcee6fc8f0f38d811a2f599680",
+    "status": "active",
+    "department": "Management & Operations",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-29T12:18:13.411Z"
+  },
+  {
+    "id": "usr-crm-1",
+    "name": "CRM Customer Desk",
+    "email": "crm@blkbrdshoemaker.com",
+    "role": "crm",
+    "passwordHash": "a39b402d90fe88283485136713bbc34e:e84149c830f83b62bb2b9935f510f1f48536e652ccd8a8d9ac4a45a8167340db5a719505f21bd81ecd0ca15f8de545f1ed6bb3a28349867d5111f967b1cb142c",
+    "status": "active",
+    "department": "Customer Inquiries & Support",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr-prod-1",
+    "name": "Master Workshop Lead",
+    "email": "workshop@blkbrdshoemaker.com",
+    "role": "production",
+    "passwordHash": "9238ad8aa036abbfb5fd6edbc47bf851:b53c3ba0625e727fd75869a445a7d743bd84915f10b5af0aca16cddb5d0c7e9a61839721397bd398857ef6d17bf83ac9f67af1d50b874bb433484d2503643b98",
+    "status": "active",
+    "department": "Handmade Workshop & Assembly",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr-log-1",
+    "name": "Logistics & Dispatch Desk",
+    "email": "logistics@blkbrdshoemaker.com",
+    "role": "logistics",
+    "passwordHash": "b669bbdd4897f4d0a6c207b7b858606a:f2c692f208bce82c44ef15bdfeb7d39c20f1e13e735210145d4ea69014cf052ba332e4f9550dcb2e9c3ce95fea123e382042e499380062f941c9305b52a6a750",
+    "status": "active",
+    "department": "Fulfillment & Outgoing Courier",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]
